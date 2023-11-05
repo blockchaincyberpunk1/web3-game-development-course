@@ -1,0 +1,54 @@
+Security Auditing
+
+Objective: The objective of this assignment is to challenge students to perform a security audit on a Web3 game. Students will learn how to identify, document, and propose fixes for security vulnerabilities in a game. They will prioritize security issues based on potential impact and exploitability.
+
+Instructions:
+
+Introduction to Security Auditing:
+
+Provide an introduction to the importance of security auditing in Web3 game development.
+Explain the potential risks associated with security vulnerabilities in games.
+Providing the Web3 Game:
+
+Provide students with access to a Web3 game that contains known or simulated vulnerabilities.
+Ensure that the game exhibits various types of security weaknesses, such as smart contract vulnerabilities, data exposure, or user authentication issues.
+Conducting a Security Audit:
+
+Instruct students to conduct a thorough security audit of the provided Web3 game.
+Task them with identifying and documenting security weaknesses, vulnerabilities, and potential attack vectors.
+Encourage students to use appropriate tools, methodologies, and best practices for security auditing.
+Documentation of Vulnerabilities:
+
+Require students to document each identified security vulnerability, including:
+A description of the vulnerability.
+Its potential impact on the game and users.
+The steps to reproduce or exploit the vulnerability.
+Suggestions for mitigation or fixes.
+Proposing Fixes and Improvements:
+
+Task students with proposing fixes or improvements to address the identified vulnerabilities. These fixes may include code changes, configuration adjustments, or architectural enhancements.
+Prioritizing Security Issues:
+
+Instruct students to prioritize the security issues based on:
+Their potential impact on the game.
+The likelihood of exploitation.
+The ease of fixing or mitigating the issue.
+Reporting and Recommendations:
+
+Require students to create a comprehensive security audit report. The report should include:
+An executive summary.
+A list of identified vulnerabilities with detailed descriptions.
+Prioritization of vulnerabilities.
+Proposed fixes or improvements for each vulnerability.
+Recommendations for ongoing security monitoring and maintenance.
+Presentation and Discussion:
+
+Organize a presentation session where students can share their findings and recommendations.
+Encourage discussion and peer feedback on the security audit reports.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The thoroughness of their security audit.
+The accuracy and clarity of vulnerability documentation.
+The effectiveness of proposed fixes and improvements.
+The quality of the security audit report and recommendations.

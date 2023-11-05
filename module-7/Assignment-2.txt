@@ -1,0 +1,43 @@
+Transaction Security
+
+Objective: The objective of this assignment is to guide students in implementing secure transactions within a Web3 game. Students will learn how to enhance the security of in-game purchases and trades, handle error scenarios, and ensure the tamper-proof nature of transactions on a blockchain platform like Ethereum.
+
+Instructions:
+
+Introduction to Transaction Security:
+
+Provide an introduction to transaction security within the context of Web3 game development.
+Explain the importance of secure transactions for in-game purchases and trades.
+Blockchain Platform Introduction:
+
+Introduce students to a specific blockchain platform (e.g., Ethereum) and provide relevant SDKs or libraries for blockchain interaction.
+Enhancing an Existing Web3 Game:
+
+Instruct students to select an existing Web3 game (could be a game they developed in a previous assignment or a provided template).
+Task them with enhancing the game by implementing secure transactions for in-game purchases or trades. These transactions can involve in-game currency or assets represented as tokens on the blockchain.
+Secure Transaction Implementation:
+
+Guide students in implementing secure transaction handling within the game. They should:
+Use the provided blockchain SDKs to facilitate transactions.
+Ensure that transactions are validated and executed securely.
+Implement mechanisms to handle error scenarios, including failed transactions.
+Guarantee the tamper-proof nature of transactions by utilizing blockchain features.
+Unit Testing for Transaction Security:
+
+Require students to write unit tests to validate the security of their transaction system. Unit tests should cover various scenarios, including successful transactions, failed transactions, and potential attack vectors.
+Documentation and Reporting:
+
+Instruct students to document their secure transaction implementation thoroughly. Their documentation should include:
+Details of how transactions are implemented within the game.
+Steps taken to ensure security, error handling, and tamper resistance.
+Unit test descriptions, code snippets, and results.
+Testing and Evaluation:
+
+Task students with testing the secure transaction system by simulating different in-game transaction scenarios.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The effectiveness and security of their transaction implementation.
+The completeness and correctness of their unit tests.
+The quality of their documentation and reporting.
+Their ability to secure in-game transactions and handle potential issues.

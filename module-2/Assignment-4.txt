@@ -1,0 +1,58 @@
+Smart Contract Integration
+
+Objective: The objective of this assignment is to teach students how to integrate a custom Ethereum smart contract into a game or application. By the end of this assignment, students should be able to create and deploy a simple smart contract and integrate it into their project to represent in-game items or assets as blockchain tokens.
+
+Instructions:
+
+Introduction to Smart Contract Integration:
+
+Explain the importance of integrating smart contracts into games or applications in the context of Web3 game development.
+Provide an overview of the project template (e.g., Unity game or web app) that students will be using.
+Choose a Project Template:
+
+Instruct students to choose one of the following project templates for integration:
+Unity game (for 3D/2D games).
+Web application (for browser-based games or applications).
+Any other project template that they are comfortable with.
+Smart Contract Development:
+
+Task students with creating a simple Ethereum smart contract using Solidity.
+The contract should represent collectible items or assets (e.g., game characters, items, tokens).
+Guide them through deploying the contract to an Ethereum testnet (e.g., Ropsten).
+Integration Implementation:
+
+Instruct students to integrate the smart contract into their chosen project template.
+Explain that this integration should allow the in-game items or assets to be represented as blockchain tokens.
+Interactions and Functionality:
+
+Task students with implementing interactions between the game or application and the smart contract.
+For example, they should be able to mint new tokens, transfer tokens between users, or query token ownership.
+Encourage them to consider how the smart contract enhances gameplay or functionality.
+Demonstration:
+
+Require students to demonstrate how their integrated project works.
+They should showcase interactions with the smart contract within the game or application.
+Encourage them to create a video demonstration or a live presentation.
+Documentation:
+
+Instruct students to provide documentation explaining how the smart contract integration works.
+This should include a description of the contract's functionality, how it was integrated, and how users can interact with it.
+Code Documentation:
+
+Ask students to document their code to make it understandable and maintainable.
+Encourage them to include comments and explanations of key functions and sections.
+Testing:
+
+Instruct students to thoroughly test their integrated project to ensure that it functions correctly.
+Encourage them to use a local Ethereum development environment (e.g., Ganache) for testing.
+Submission:
+
+Require students to submit their integrated project code, documentation, and a video demonstration (if applicable).
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful integration of the smart contract into the chosen project template.
+Functionality and usability of the integrated project.
+Clarity and completeness of documentation.
+Quality of code documentation.
+Thoroughness of testing.

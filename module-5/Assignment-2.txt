@@ -1,0 +1,46 @@
+Player Authentication and Sessions in a Multiplayer Game
+
+Objective: The objective of this assignment is to teach students how to implement secure player authentication and session management in a multiplayer game. By completing this assignment, students will gain valuable skills in handling player accounts and ensuring secure access to game sessions.
+
+Instructions:
+
+Introduction to Player Authentication and Sessions:
+
+Provide an introduction to the concepts of player authentication and sessions in multiplayer games.
+Explain the importance of secure authentication and session management for a seamless gaming experience.
+Game and Authentication System Overview:
+
+Provide a multiplayer game with a basic authentication system (e.g., username and password).
+Present an overview of the existing authentication system in the game.
+Extending Authentication System:
+
+Task students with extending the authentication system to include player sessions.
+Instruct them to implement features such as player registration, login, and logout.
+Session Management:
+
+Guide students in creating a secure session management mechanism.
+Require them to implement features like session creation, expiration, and termination.
+Preventing Unauthorized Access:
+
+Emphasize the importance of preventing unauthorized access to game sessions.
+Instruct students to implement security measures, such as token-based authentication or session validation.
+Testing and Validation:
+
+Encourage students to thoroughly test the extended authentication and session management system.
+Instruct them to validate the security and functionality of player authentication and sessions.
+Documentation:
+
+Require students to create documentation that includes:
+Detailed explanations of the authentication and session management features implemented.
+Instructions for testing the system within the game.
+Presentation and Peer Review:
+
+Organize a presentation session where students can showcase the extended authentication and session management system.
+Encourage peer reviews and discussions on the security and user experience aspects.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful extension of the authentication system to include player sessions.
+Secure and functional implementation of authentication and sessions.
+Quality and completeness of documentation.
+Quality of the presentation and participation in peer reviews.

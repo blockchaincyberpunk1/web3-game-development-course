@@ -1,0 +1,50 @@
+Game Genre Analysis
+
+Objective: The objective of this assignment is to encourage students to explore various game genres, understand their unique characteristics, and analyze the key elements that define each genre. By conducting research and summarizing their findings, students will gain insights into the diverse world of game development.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the importance of understanding different game genres in game development.
+Emphasize that analyzing game genres helps game developers make informed design decisions and create engaging player experiences.
+Providing a List of Game Genres:
+
+Provide students with a list of popular game genres. Ensure that the list includes a diverse range of genres, such as platformer, RPG, puzzle, shooter, simulation, strategy, etc.
+Genre Selection:
+
+Instruct students to choose one game genre from the provided list that they find interesting or appealing.
+Encourage them to think about their personal preferences and the type of games they would like to explore further.
+Research and Analysis:
+
+Task students with conducting research on games within the selected genre. They should consider:
+Common gameplay mechanics: What are the typical interactions and challenges players encounter in this genre?
+Visual styles: How are games in this genre visually designed? Are there specific art styles or themes that are common?
+Narrative elements: Are there recurring story elements, characters, or plot structures in this genre?
+Notable examples: Ask students to identify and analyze a few well-known games within the chosen genre.
+Presentation or Report:
+
+Instruct students to create a presentation or report summarizing their genre analysis.
+Encourage them to use visuals, screenshots, or gameplay examples to illustrate their points.
+Suggest that they include comparisons between different games in the same genre to highlight variations and innovations.
+Class Presentation:
+
+Allocate time for each student to present their genre analysis to the class.
+Encourage students to engage in discussions and share their insights about the genre's characteristics.
+Discussion on Game Design:
+
+After each presentation, facilitate a class discussion about how the genre's characteristics influence game design decisions.
+Encourage students to share their thoughts on what makes certain games within the genre successful or unique.
+Submission Requirements:
+
+Students should submit their presentation materials or reports, which should include a summary of the chosen genre's key characteristics and notable examples.
+Assessment:
+
+Evaluate students based on the following criteria:
+The depth and accuracy of their genre analysis.
+The quality and clarity of their presentation or report.
+Active participation in class discussions and insightful contributions.
+Feedback and Reflection:
+
+Provide feedback to each student based on their presentation and analysis.
+Encourage students to reflect on how their understanding of different game genres can inform their future game development projects.

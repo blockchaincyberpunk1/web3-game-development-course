@@ -1,0 +1,45 @@
+Blockchain Asset Ownership
+
+Objective: The objective of this assignment is to teach students how to implement blockchain-based asset ownership in a game. By the end of this assignment, students should be able to integrate a smart contract into a game project (e.g., a virtual pet game) to represent in-game assets as blockchain tokens and implement features like asset transfers, breeding, or trading.
+
+Instructions:
+
+Introduction to Blockchain Asset Ownership:
+
+Explain the concept of blockchain-based asset ownership and its significance in gaming.
+Describe how blockchain technology ensures true ownership of in-game assets and their scarcity.
+Game Project Selection:
+
+Provide students with a basic game project template (e.g., a virtual pet game) that includes in-game assets (e.g., virtual pets).
+Instruct students to choose this project as the basis for implementing blockchain-based asset ownership.
+Smart Contract Integration:
+
+Provide students with a basic smart contract template (e.g., an ERC-721 contract) for managing digital assets on the blockchain.
+Task students with integrating the provided smart contract into their game project, ensuring that in-game assets are represented as blockchain tokens.
+Instruct them to implement functionalities for asset transfers, breeding, or trading using the smart contract.
+Asset Ownership Features:
+
+Guide students in implementing key features related to asset ownership, which may include:
+Transferring ownership of assets between players.
+Implementing breeding mechanics, if applicable to the game concept.
+Allowing asset trading among players.
+User Guide Creation:
+
+Instruct students to create a comprehensive user guide within their game project.
+Require them to explain how blockchain-based asset ownership works in the game, including instructions for transferring, breeding, or trading assets.
+Encourage clear and user-friendly documentation.
+Testing and Debugging:
+
+Encourage students to thoroughly test the implemented features related to asset ownership.
+Task them with debugging and resolving any issues that may arise during testing.
+Gameplay Demonstration:
+
+Require students to demonstrate the gameplay and asset ownership features within the game.
+Encourage them to showcase how players can interact with and manage their blockchain-based assets.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful integration of the smart contract into the game.
+Functionality and user-friendliness of the asset ownership features.
+Clarity and completeness of the user guide.
+Thoroughness of testing and debugging.

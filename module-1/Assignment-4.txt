@@ -1,0 +1,49 @@
+Game Design Principles
+
+Objective: The objective of this assignment is to introduce students to essential game design principles and emphasize their significance in web3 game development. By selecting and applying a specific principle, students will gain insights into the fundamental elements that make games engaging and enjoyable.
+
+Instructions:
+
+Introduction to Game Design Principles:
+
+Explain the importance of game design principles in creating compelling and engaging games.
+Present a set of game design principles, such as player engagement, pacing, user feedback, aesthetics, and narrative.
+Selection of Game Design Principle:
+
+Instruct students to choose one game design principle from the provided list.
+Encourage students to select a principle that aligns with their interests or the type of game they aspire to create.
+Research and Understanding:
+
+Task students with conducting research on the selected game design principle.
+Instruct them to explore case studies or examples of games that successfully apply this principle.
+Require students to write a brief summary of their research findings.
+Game Concept Design:
+
+Challenge students to design a web3 game concept that incorporates the chosen game design principle.
+Instruct them to outline the game's core mechanics, objectives, and how the chosen principle will enhance the player's experience.
+Encourage creativity and innovation in their game concepts.
+Design Document Creation:
+
+Require students to create a design document that outlines their game concept and the role of the chosen game design principle.
+The design document should include:
+Game title and concept description.
+Gameplay mechanics and interactions.
+How the chosen principle enhances the gameplay.
+User interface (UI) design concepts.
+A brief narrative or storyline if relevant.
+Any additional details that support their game concept.
+Submission and Presentation:
+
+Collect design documents from students.
+Organize a presentation session where each student presents their game concept and the role of the chosen game design principle.
+Encourage peer feedback and questions during the presentations.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The clarity and creativity of their game concept.
+How effectively the chosen game design principle is integrated into the concept.
+The quality of the design document and its completeness.
+The presentation skills and ability to articulate the concept and principle.
+Reflection:
+
+Prompt students to reflect on the design process and how the application of game design principles can enhance the overall game development experience.

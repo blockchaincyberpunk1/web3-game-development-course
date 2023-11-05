@@ -1,0 +1,52 @@
+Ethereum Transaction Analysis
+
+Objective: The objective of this assignment is to familiarize students with the analysis of Ethereum transactions and blockchain explorers. By the end of this assignment, students should be able to navigate an Ethereum blockchain explorer, select and analyze a random Ethereum transaction, and understand the importance of transparency and visibility in blockchain transactions.
+
+Instructions:
+
+Introduction to Ethereum Transaction Analysis:
+
+Explain the importance of transaction analysis in the context of Web3 game development.
+Emphasize the role of transparency and visibility in blockchain transactions.
+Selecting a Blockchain Explorer:
+
+Instruct students to choose an Ethereum blockchain explorer (e.g., Etherscan, Etherchain) to perform their transaction analysis.
+Provide resources and guidance on how to use the selected blockchain explorer effectively.
+Random Ethereum Transaction Selection:
+
+Task students with selecting a random Ethereum transaction from the blockchain explorer's transaction list.
+Encourage them to choose a transaction that interests them or seems significant.
+Transaction Analysis:
+
+Instruct students to analyze the selected Ethereum transaction in detail. They should focus on the following aspects:
+Sender's address.
+Recipient's address.
+Amount of Ether transferred (if applicable).
+Gas fees associated with the transaction.
+Any contract interactions or smart contract calls.
+Timestamp and block information.
+Summary Report:
+
+Require students to create a summary report of their transaction analysis. The report should include:
+A description of the selected transaction.
+An analysis of the sender's and recipient's addresses.
+Information on gas fees paid for the transaction.
+Insights into any contract interactions or smart contract calls.
+The significance or potential use case of the analyzed transaction.
+Importance of Transparency:
+
+Instruct students to discuss the importance of transparency and visibility in blockchain transactions.
+Encourage them to reflect on how the blockchain's transparency impacts trust and accountability.
+Presentation or Discussion:
+
+Ask students to present their transaction analysis and findings to the class. Alternatively, you can organize a group discussion.
+Submission:
+
+Require students to submit their summary report, along with any presentation materials if applicable.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Thoroughness and accuracy of the transaction analysis.
+Clarity and completeness of the summary report.
+Insights into the importance of transparency in blockchain transactions.
+Quality of presentation or discussion (if applicable).

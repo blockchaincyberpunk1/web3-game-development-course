@@ -1,0 +1,50 @@
+UX Testing and Optimization
+
+Objective: The objective of this assignment is to teach students how to conduct user experience (UX) testing and optimize web-based games. Students will work on identifying UX issues, gathering user feedback, and making iterative improvements to enhance the overall player experience.
+
+Instructions:
+
+Introduction to UX Testing:
+
+Provide an introduction to the importance of user experience (UX) in game development.
+Explain the significance of player feedback and continuous improvement in creating engaging games.
+Selecting a Game with Known Issues:
+
+Provide students with a web-based game that has known UX issues. The game should include performance bottlenecks, confusing user interfaces, or other issues.
+Instruct students to thoroughly explore and play the game to understand the existing problems.
+Identifying UX Issues:
+
+Task students with identifying and documenting UX issues they encounter while playing the game.
+Encourage them to take notes on usability problems, performance bottlenecks, and any other factors that negatively impact the player experience.
+Playtesting and Gathering User Feedback:
+
+Instruct students to conduct playtesting sessions with real users, such as classmates, friends, or volunteers.
+Require them to collect user feedback regarding their experiences while playing the game.
+Students should document feedback on usability, user interface, and overall enjoyment.
+Iterative Improvements:
+
+Guide students in making iterative improvements to the game based on the UX issues identified and user feedback received.
+Encourage them to implement changes that address the documented problems.
+Performance Optimization:
+
+Teach students how to optimize game performance to ensure smooth gameplay.
+Provide guidance on optimizing code, assets, and any other elements affecting performance.
+Testing and Validation:
+
+Task students with testing the game after implementing improvements and optimizations.
+Ensure that they validate the changes by checking if the identified UX issues have been resolved.
+Documentation and Reporting:
+
+Require students to create a comprehensive report that includes:
+An overview of the identified UX issues.
+Details of the user feedback received.
+Descriptions of the iterative improvements made.
+Documentation of performance optimization efforts.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Effectiveness in identifying and addressing UX issues.
+Quality of user feedback collection and analysis.
+Demonstrated ability to make iterative improvements.
+Successful game performance optimization.
+Clarity and completeness of documentation and reporting.

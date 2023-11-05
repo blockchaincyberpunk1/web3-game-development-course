@@ -1,0 +1,49 @@
+NFT Creation and Deployment
+
+Objective: The objective of this assignment is to guide students in creating and deploying Non-Fungible Tokens (NFTs) on a blockchain. By the end of this assignment, students should be able to create unique NFTs, deploy them using a smart contract, and understand the concept of NFT metadata.
+
+Instructions:
+
+Introduction to NFTs:
+
+Provide an introduction to NFTs (Non-Fungible Tokens) and their use cases, with a focus on gaming and digital collectibles.
+NFT Smart Contract Setup:
+
+Share a simple NFT smart contract template, such as ERC-721 or ERC-1155, with students.
+Instruct students to deploy this smart contract on a testnet of their choice (e.g., Rinkeby, Ropsten) using Remix, Truffle, or Hardhat.
+Ensure that they have access to clear deployment instructions.
+NFT Creation:
+
+Task students with creating their unique NFTs. These NFTs can be digital art, collectible characters, or any other creative digital asset.
+Encourage creativity in designing NFTs with unique properties.
+Minting NFTs:
+
+Instruct students to use the deployed smart contract to mint multiple instances of their NFTs.
+Each NFT should have distinct properties or attributes, making them unique.
+NFT Metadata:
+
+Explain the concept of NFT metadata, which includes information such as images, descriptions, and other attributes associated with NFTs.
+Require students to create metadata for their NFTs, including images and descriptions.
+Deployment and Sharing:
+
+Task students with deploying their NFTs using the smart contract they previously deployed.
+Instruct them to share their NFTs on a blockchain explorer and provide the contract and token IDs for verification.
+Documentation:
+
+Require students to create documentation that includes:
+A brief explanation of their NFT creation process.
+Screenshots or links to their NFTs on a blockchain explorer.
+Details about the NFT metadata they created.
+Presentation and Peer Review:
+
+Arrange for students to present their NFT creations to their peers or the class.
+Encourage discussions on the uniqueness and creativity of each NFT.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful deployment of the NFT smart contract on a testnet.
+Creativity and uniqueness of the NFTs created.
+Proper minting of NFTs with distinct properties.
+Quality and completeness of NFT metadata.
+Documentation of the NFT creation process and sharing on a blockchain explorer.
+Quality of the presentation and participation in peer reviews.

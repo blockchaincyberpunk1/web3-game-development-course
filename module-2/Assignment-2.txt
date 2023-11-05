@@ -1,0 +1,42 @@
+Smart Contract Deployment
+
+Objective: The objective of this assignment is to provide students with hands-on experience in deploying Ethereum smart contracts to the blockchain. By the end of this assignment, students should be able to deploy a smart contract, verify its deployment on a blockchain explorer, and understand the contract's purpose and functionality.
+
+Instructions:
+
+Introduction to Smart Contract Deployment:
+
+Explain the importance of deploying smart contracts to the Ethereum blockchain in the context of game development and decentralized applications.
+Emphasize the need for proper testing on testnets before deploying to the Ethereum mainnet.
+Provided Smart Contract Code:
+
+Provide students with a basic Ethereum smart contract code (e.g., a simple ERC-20 token contract or a contract related to game mechanics).
+Choose Deployment Tool:
+
+Instruct students to choose one of the following tools for deploying the provided smart contract:
+Remix
+Truffle
+Hardhat
+Deployment to Ethereum Network:
+
+Task students with deploying the provided smart contract to either an Ethereum testnet (e.g., Rinkeby, Ropsten) or the Ethereum mainnet, depending on their level of experience and access to real Ether.
+Ensure they understand the differences between deploying to a testnet and the mainnet.
+Contract Verification:
+
+Instruct students to verify the deployment of the smart contract on a blockchain explorer (e.g., Etherscan).
+Verify that they can access the contract's details and transactions on the explorer.
+Contract Description:
+
+Require students to write a brief description of the deployed smart contract, including its purpose and functionality.
+Encourage them to provide information about any specific game-related features or mechanics if applicable.
+Documentation and Submission:
+
+Ask students to document the entire deployment process, including screenshots or links to the verified contract on the blockchain explorer.
+Collect their contract descriptions along with the documentation.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful deployment of the provided smart contract to the specified Ethereum network.
+Correct contract verification on a blockchain explorer.
+Clarity and accuracy of the contract description.
+Quality of the documentation and evidence of deployment.

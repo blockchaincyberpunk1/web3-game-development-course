@@ -1,0 +1,50 @@
+Basic Game Mechanics Implementation
+
+Objective: The objective of this assignment is to introduce students to the fundamental concept of implementing game mechanics using a programming language. By choosing a simple game mechanic and creating a functional game prototype, students will gain hands-on experience in translating game ideas into code.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the importance of understanding and implementing game mechanics in game development.
+Emphasize that game mechanics are the core interactive elements that drive player engagement and gameplay experiences.
+Choosing a Game Mechanic:
+
+Provide a list of simple game mechanics from which students can choose. Examples include:
+Character movement (e.g., player character navigation)
+Object interaction (e.g., collecting items)
+Collision detection (e.g., detecting when objects collide)
+Encourage students to select a game mechanic that aligns with their interests and goals.
+Programming Language Selection:
+
+Allow students to choose a programming language of their choice for implementing the selected game mechanic. Suggested languages include JavaScript, Python, or any language commonly used for game development.
+Implementation Task:
+
+Instruct students to implement the chosen game mechanic using their selected programming language.
+Task them with creating a simple game prototype that showcases the game mechanic in action.
+Encourage students to consider factors such as user input, feedback, and interaction within their prototype.
+Code Documentation:
+
+Require students to provide thorough documentation for their code. This documentation should explain:
+How the game mechanic was implemented in code.
+Key functions, variables, and logic used in the implementation.
+Any challenges faced during the coding process and how they were addressed.
+Prototype Demonstration:
+
+Instruct students to demonstrate their game prototype to the class or submit a video recording of the gameplay.
+Encourage them to provide a brief overview of the prototype's purpose and how the chosen game mechanic enhances the gameplay experience.
+Peer Review and Feedback:
+
+Organize a peer review session where students can playtest each other's game prototypes.
+Encourage constructive feedback on the functionality and user experience of the prototypes.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Correct implementation of the chosen game mechanic.
+Code quality, readability, and organization.
+The functionality and usability of the game prototype.
+The clarity and completeness of code documentation.
+Reflection and Improvement:
+
+Encourage students to reflect on their experiences during the implementation process.
+Ask them to consider how they could further enhance their game mechanic or prototype if they had more time or resources.

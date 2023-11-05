@@ -1,0 +1,45 @@
+Play-to-Earn Mechanism
+
+Objective: The objective of this assignment is to challenge students to design and implement a play-to-earn mechanism in a web-based game. This assignment provides students with the opportunity to explore the concept of blockchain-based rewards and cryptocurrency tokens in gaming.
+
+Instructions:
+
+Introduction to Play-to-Earn Mechanism:
+
+Provide an introduction to the play-to-earn concept, explaining how players can earn cryptocurrency tokens by achieving specific in-game goals.
+Discuss the potential benefits and challenges of integrating a play-to-earn mechanism in games.
+Selecting a Game Framework or Engine:
+
+Instruct students to select a game framework or engine suitable for web-based game development.
+Ensure that the chosen framework supports web integration and cryptocurrency wallet integration.
+Game Development and Play-to-Earn Implementation:
+
+Task students with developing a web-based game that incorporates a play-to-earn mechanism.
+Guide them in designing specific in-game goals or achievements that, when completed, allow players to earn cryptocurrency tokens.
+Encourage creativity in defining the gameplay mechanics and goals.
+Cryptocurrency Wallet Integration:
+
+Teach students how to integrate cryptocurrency wallet functionality into the game.
+Instruct them to choose a cryptocurrency (e.g., Ethereum) and implement secure wallet integration that allows players to store, manage, and withdraw earned tokens.
+Designing Play-to-Earn Rules and Rewards:
+
+Require students to design and document the rules and reward structure for the play-to-earn mechanism.
+Specify how players can earn tokens, the conversion rate from in-game achievements to tokens, and any limitations or conditions.
+Testing and Debugging:
+
+Task students with rigorous testing of the game's play-to-earn mechanism.
+Encourage them to simulate various player scenarios and ensure that token rewards are correctly distributed.
+Documentation and Reporting:
+
+Require students to create a comprehensive report that includes:
+Descriptions of the game's play-to-earn features.
+Explanations of the cryptocurrency wallet integration.
+Details of the play-to-earn rules and reward structure.
+Documentation of the testing process and bug fixes.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The effectiveness of the play-to-earn mechanism in enhancing player engagement.
+The successful integration of cryptocurrency wallet functionality.
+The clarity and completeness of documentation and reporting.
+Demonstrated understanding of play-to-earn concepts and cryptocurrency integration in gaming.

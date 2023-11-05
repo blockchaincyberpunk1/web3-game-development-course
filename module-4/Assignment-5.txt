@@ -1,0 +1,44 @@
+NFT-Based Gameplay Mechanics
+
+Objective: The objective of this assignment is to challenge students to design and implement gameplay mechanics that leverage NFTs (Non-Fungible Tokens). By the end of this assignment, students should be able to enhance a game's dynamics by incorporating NFT-based features, such as unique abilities, collectible power-ups, and rewards.
+
+Instructions:
+
+Introduction to NFT-Based Gameplay:
+
+Provide an introduction to the concept of NFT-based gameplay mechanics, explaining how NFTs can add unique value and experiences to games.
+Game Prototype and NFT Assets:
+
+Share a basic game prototype with students, including core gameplay mechanics.
+Provide a set of NFTs representing in-game assets, such as characters, items, or power-ups.
+Ensure students have access to both the game's source code and the NFT smart contract.
+Enhancing Gameplay with NFTs:
+
+Instruct students to enhance the gameplay by incorporating NFT-based features. Examples include:
+Assigning unique abilities to NFT characters.
+Allowing players to use NFT power-ups for in-game advantages.
+Implementing a reward system that grants players NFTs based on their achievements in the game.
+Implementation and Testing:
+
+Task students with implementing the NFT-based gameplay mechanics in the game prototype.
+Encourage thorough testing to ensure that NFTs influence gameplay as intended.
+Documentation:
+
+Require students to create documentation that includes:
+A description of the NFT-based gameplay mechanics.
+Explanations of how NFTs are integrated into the game.
+Details on the NFT smart contract, including how NFT ownership affects gameplay.
+Player Experience Analysis:
+
+Instruct students to analyze and document how NFT-based gameplay mechanics impact the player experience, engagement, and strategies.
+Presentation and Feedback:
+
+Organize a presentation session where students can demonstrate their enhanced game.
+Encourage peer reviews and discussions on the impact of NFTs on gameplay.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful implementation of NFT-based gameplay mechanics.
+Positive impact on player experience and engagement.
+Quality and completeness of documentation.
+Quality of the presentation and participation in peer reviews.

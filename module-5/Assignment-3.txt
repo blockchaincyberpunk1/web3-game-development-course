@@ -1,0 +1,44 @@
+Peer-to-Peer Multiplayer Game Development
+
+Objective: The objective of this assignment is to guide students in creating a peer-to-peer multiplayer game using a game engine or framework with peer-to-peer networking capabilities. By completing this assignment, students will gain practical experience in implementing real-time, direct player-to-player interactions in a multiplayer game.
+
+Instructions:
+
+Introduction to Peer-to-Peer Networking:
+
+Provide an introduction to the concept of peer-to-peer networking in multiplayer games.
+Explain the benefits of peer-to-peer networking, such as reduced latency and direct player interactions.
+Selection of Game Engine/Framework:
+
+Offer a choice of game engines or frameworks with peer-to-peer networking capabilities (e.g., Unity with UNET, Godot with WebRTC).
+Instruct students to choose one for their multiplayer game development.
+Game Concept and Design:
+
+Task students with brainstorming and designing a peer-to-peer multiplayer game concept. Examples include card games, real-time chat applications, or simple collaborative experiences.
+Require them to create a game design document (GDD) outlining the game's mechanics, objectives, and player interactions.
+Peer-to-Peer Implementation:
+
+Instruct students to implement the chosen game concept using the selected game engine or framework.
+Guide them in establishing direct connections between players for real-time interactions.
+Ensure that students handle data synchronization and manage network issues effectively.
+Testing and Debugging:
+
+Encourage students to thoroughly test their peer-to-peer multiplayer game.
+Task them with debugging network-related issues and ensuring smooth gameplay experiences.
+Documentation:
+
+Require students to create comprehensive documentation that includes:
+A detailed explanation of the peer-to-peer networking implementation.
+Instructions for testing the multiplayer game.
+Troubleshooting tips for network-related problems.
+Presentation and Playtesting:
+
+Organize a presentation session where students can showcase their peer-to-peer multiplayer games.
+Facilitate playtesting sessions among students to gather feedback and assess gameplay experiences.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful implementation of peer-to-peer networking for multiplayer gameplay.
+Functionality and stability of the multiplayer game.
+Quality and completeness of documentation.
+Quality of the presentation and participation in playtesting sessions.

@@ -1,0 +1,49 @@
+Simple Multiplayer Game Prototype
+
+Objective: The objective of this assignment is to challenge students to create a basic multiplayer game prototype. By completing this assignment, students will gain hands-on experience in developing multiplayer game features using a suitable game engine or framework.
+
+Instructions:
+
+Introduction to Multiplayer Game Development:
+
+Provide an introduction to the concept of multiplayer game development.
+Explain the importance of synchronization, networking, and real-time interactions in multiplayer games.
+Selecting the Game Engine or Framework:
+
+Offer a choice of game engines or frameworks suitable for multiplayer development (e.g., Unity with Photon, Godot with ENet).
+Ensure that students have access to necessary resources and documentation for their chosen platform.
+Game Concept Selection:
+
+Allow students to select a simple multiplayer game concept (e.g., real-time strategy, multiplayer shooter).
+Encourage creativity but emphasize simplicity, as this is a prototype.
+Development of Multiplayer Features:
+
+Task students with implementing basic multiplayer features in their game prototype. This may include:
+Player movement and control.
+Interactions between players (e.g., shooting, trading, or collaboration).
+Real-time synchronization of game elements.
+Local Server Setup:
+
+Instruct students to set up a local server environment for testing the multiplayer game.
+Provide guidance on hosting the game on a local server to enable multiplayer testing.
+Testing and Debugging:
+
+Encourage thorough testing to ensure that multiplayer interactions work as expected.
+Instruct students to identify and debug issues related to synchronization and networking.
+Documentation:
+
+Require students to create documentation that includes:
+An overview of the game concept and objectives.
+Descriptions of implemented multiplayer features.
+Instructions for testing the game on a local server.
+Presentation and Peer Feedback:
+
+Organize a presentation session where students can showcase their multiplayer game prototypes.
+Encourage peer reviews and discussions on the gameplay experience and any improvements that can be made.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful implementation of basic multiplayer features.
+Functionality and playability of the multiplayer prototype.
+Quality and completeness of documentation.
+Quality of the presentation and participation in peer reviews.

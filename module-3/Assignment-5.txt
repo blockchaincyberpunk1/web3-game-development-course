@@ -1,0 +1,48 @@
+Decentralized Leaderboards
+
+Objective: The objective of this assignment is to help students create decentralized leaderboards for competitive games. By the end of this assignment, students should be able to integrate a smart contract into a competitive game prototype, maintain a decentralized leaderboard, securely record scores on the blockchain, and display the leaderboard in the game.
+
+Instructions:
+
+Introduction to Decentralized Leaderboards:
+
+Explain the concept of decentralized leaderboards in competitive games.
+Describe how blockchain technology ensures transparency and security in recording and displaying scores.
+Game Prototype Selection:
+
+Provide students with a competitive game prototype (e.g., a blockchain-based quiz game) that includes a scoring mechanism.
+Instruct students to choose this project as the basis for implementing decentralized leaderboards.
+Smart Contract Integration:
+
+Provide students with a basic smart contract template (e.g., Solidity) for recording and managing scores on the blockchain.
+Task students with integrating the provided smart contract into their game prototype.
+Ensure that the smart contract can securely record player scores on the blockchain.
+Leaderboard Implementation:
+
+Instruct students to implement a leaderboard system within the game that fetches and displays scores from the blockchain.
+Task them with designing the leaderboard interface, which should showcase player usernames and their respective scores.
+Encourage real-time updates of the leaderboard whenever a player achieves a new high score.
+Blockchain Interaction:
+
+Ensure that students use web3.js, ethers.js, or a similar library to interact with the Ethereum blockchain from within the game.
+Guide them in developing functions that send score updates to the smart contract and retrieve leaderboard data.
+User Testing and Security:
+
+Encourage students to thoroughly test the leaderboard system within the game, ensuring that scores are accurately recorded and displayed.
+Task them with addressing any potential security vulnerabilities in the smart contract or the game's interactions with it.
+Documentation and User Guide:
+
+Instruct students to create documentation for the leaderboard system, including how it functions and its security measures.
+Require them to provide a user guide that explains how players can view the leaderboard and how scores are recorded on the blockchain.
+Leaderboard Demonstration:
+
+Ask students to demonstrate the game's functionality, including playing the game, achieving high scores, and viewing the decentralized leaderboard.
+Encourage them to showcase the real-time updating of the leaderboard.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful integration of the smart contract into the game.
+Functionality and user-friendliness of the leaderboard system.
+Security measures implemented in the smart contract and game.
+Clarity and completeness of the documentation and user guide.
+Effective demonstration of the game's leaderboard functionality.

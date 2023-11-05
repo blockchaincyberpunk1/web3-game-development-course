@@ -1,0 +1,37 @@
+Player Data Encryption
+
+Objective: The objective of this assignment is to teach students how to implement data encryption and decryption mechanisms to secure player data in a Web3 game. Students will learn the importance of protecting sensitive information and implementing cryptographic techniques for data security.
+
+Instructions:
+
+Introduction to Data Encryption:
+
+Provide an introduction to data encryption and its significance in web-based game development.
+Explain the importance of securing player data to protect sensitive information.
+Providing a Simple Web3 Game:
+
+Offer a simple web-based game that collects and stores player data. The game should include elements like user registration, login, and personal information.
+Data Encryption Implementation:
+
+Instruct students to implement data encryption and decryption mechanisms using cryptographic libraries or tools. You can suggest using JavaScript libraries like CryptoJS or WebCrypto API.
+Task them with identifying sensitive player data that needs to be protected, such as login credentials or personal details.
+Encryption of Sensitive Data:
+
+Require students to implement encryption for the identified sensitive data within the game. This should include encrypting data before it's stored and decrypting it when needed for legitimate purposes.
+Documentation of Encryption Approach:
+
+Instruct students to document their encryption approach comprehensively. Their documentation should include:
+Details of the cryptographic techniques or libraries used.
+An explanation of how sensitive data is encrypted and decrypted within the game.
+Examples or code snippets demonstrating the encryption process.
+Insights into how encryption enhances data security in the game.
+Testing Data Security:
+
+Task students with testing the security of their game by attempting to access sensitive data without authorization. They should ensure that encrypted data remains protected.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The effectiveness of their data encryption and decryption implementation.
+The security of sensitive player data within the game.
+The clarity and completeness of their documentation.
+Their ability to protect player data from unauthorized access.

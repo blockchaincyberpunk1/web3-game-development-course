@@ -1,0 +1,46 @@
+UX Improvement Suggestions
+
+Objective: The objective of this assignment is to challenge students to critically analyze an existing web-based game and propose user experience (UX) improvements. By completing this assignment, students will gain practical experience in identifying UX issues and suggesting design changes to enhance player satisfaction.
+
+Instructions:
+
+Introduction to UX Improvement Analysis:
+
+Provide an introduction to the importance of user experience (UX) in game development.
+Explain the significance of identifying and addressing UX issues to create more engaging and enjoyable games.
+Providing the Web-Based Game:
+
+Supply students with a simple web-based game that has a basic user interface.
+Ensure that the game is accessible and playable in a web browser.
+Playing and Analyzing the Game:
+
+Instruct students to play the provided game thoroughly.
+Task them with identifying UX issues and challenges encountered during gameplay.
+Encourage them to consider aspects such as controls, instructions, visual design, and overall player experience.
+UX Improvement Suggestions:
+
+Ask students to propose specific UX improvements for the game.
+Require them to provide a minimum of three detailed suggestions for enhancing the player experience.
+Encourage them to consider both minor changes and more significant design modifications.
+Implementation of Improvements:
+
+Instruct students to implement at least three of their suggested UX improvements in the game.
+Encourage them to document the changes made, including code modifications and design updates.
+User Testing and Feedback:
+
+Organize a user testing session where students can have their peers or external users play the improved version of the game.
+Collect feedback on the UX changes and overall gameplay experience.
+Documentation and Reporting:
+
+Require students to create a comprehensive report that includes:
+Descriptions of the identified UX issues.
+Detailed suggestions for improvements.
+Documentation of the implemented changes.
+Feedback and insights gathered from user testing.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The effectiveness and creativity of their UX improvement suggestions.
+The quality of the implemented changes.
+Documentation of the entire process, including user feedback and insights.
+Active participation in the user testing and feedback session.

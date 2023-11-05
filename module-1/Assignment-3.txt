@@ -1,0 +1,100 @@
+Game Engine Exploration
+
+Objective: The objective of this assignment is to introduce students to a specific game engine or framework commonly used in game development. By exploring the documentation, tutorials, and creating a simple interactive project, students will gain hands-on experience with a tool that can be valuable in web3 game development.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the significance of understanding and working with game engines or frameworks in modern game development.
+Emphasize that game engines provide a structured environment for creating interactive experiences.
+Choosing a Game Engine or Framework:
+
+Provide a list of game engines or frameworks from which students can choose. Examples include:
+Unity
+Phaser
+Three.js
+Unreal Engine
+Godot Engine
+Encourage students to select one that aligns with their interests and goals.
+Exploration and Learning:
+
+Task students with exploring the chosen game engine or framework's official documentation and available tutorials.
+Instruct them to gain a basic understanding of the engine's features, capabilities, and workflow.
+Project Development:
+
+Challenge students to create a simple interactive game or animation project using the selected engine or framework.
+Specify that the project should include elements such as character movement, object interaction, or visual effects, depending on the capabilities of the chosen tool.
+Encourage creativity and experimentation within the project.
+Project Submission:
+
+Require students to submit the following project components:
+All project files and assets.
+A brief documentation file that explains the project's concept and features.
+A reflection on their experience, including any challenges faced and how they were addressed.
+Peer Review and Showcase:
+
+Organize a session where students can showcase their projects to the class.
+Encourage peer review and feedback on the functionality, creativity, and overall quality of the projects.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The successful creation of an interactive project using the chosen engine or framework.
+The quality of the project in terms of functionality and user experience.
+The clarity of project documentation and the depth of reflection on the experience.
+Reflection and Improvement:
+
+Prompt students to reflect on their experiences with the chosen engine or framework.
+Ask them to consider how they could further enhance their projects or explore more advanced features.
+Note: This assignment provides students with practical experience in working with a game engine or framework. It allows them to explore a tool that can be beneficial in web3 game development and fosters creativity in designing interactive experiences.
+
+Web3 Game Developer Course Assignment
+
+Assignment Title: Game Engine Exploration
+
+Objective: The objective of this assignment is to introduce students to a specific game engine or framework commonly used in game development. By exploring the documentation, tutorials, and creating a simple interactive project, students will gain hands-on experience with a tool that can be valuable in web3 game development.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the significance of understanding and working with game engines or frameworks in modern game development.
+Emphasize that game engines provide a structured environment for creating interactive experiences.
+Choosing a Game Engine or Framework:
+
+Provide a list of game engines or frameworks from which students can choose. Examples include:
+Unity
+Phaser
+Three.js
+Unreal Engine
+Godot Engine
+Encourage students to select one that aligns with their interests and goals.
+Exploration and Learning:
+
+Task students with exploring the chosen game engine or framework's official documentation and available tutorials.
+Instruct them to gain a basic understanding of the engine's features, capabilities, and workflow.
+Project Development:
+
+Challenge students to create a simple interactive game or animation project using the selected engine or framework.
+Specify that the project should include elements such as character movement, object interaction, or visual effects, depending on the capabilities of the chosen tool.
+Encourage creativity and experimentation within the project.
+Project Submission:
+
+Require students to submit the following project components:
+All project files and assets.
+A brief documentation file that explains the project's concept and features.
+A reflection on their experience, including any challenges faced and how they were addressed.
+Peer Review and Showcase:
+
+Organize a session where students can showcase their projects to the class.
+Encourage peer review and feedback on the functionality, creativity, and overall quality of the projects.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The successful creation of an interactive project using the chosen engine or framework.
+The quality of the project in terms of functionality and user experience.
+The clarity of project documentation and the depth of reflection on the experience.
+Reflection and Improvement:
+
+Prompt students to reflect on their experiences with the chosen engine or framework.
+Ask them to consider how they could further enhance their projects or explore more advanced features.

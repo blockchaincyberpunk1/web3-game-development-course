@@ -1,0 +1,46 @@
+Token Rewards and NFT Integration
+
+Objective: The objective of this assignment is to guide students in integrating blockchain-based token rewards and Non-Fungible Tokens (NFTs) into a web-based game. This assignment provides students with hands-on experience in incorporating blockchain technology into game development.
+
+Instructions:
+
+Introduction to Blockchain Integration:
+
+Provide an introduction to blockchain technology, emphasizing its applications in the gaming industry.
+Introduce the concept of blockchain tokens and NFTs, explaining their significance in games.
+Selecting a Blockchain Platform and SDK:
+
+Introduce a blockchain platform (e.g., Ethereum) and provide students with relevant SDKs, libraries, or tools for blockchain integration.
+Ensure that the chosen blockchain platform supports the creation of fungible tokens (tokens) and NFTs.
+Enhancing the Existing Game:
+
+Instruct students to select an existing web-based game or develop a simple game prototype that can be enhanced with blockchain integration.
+Task them with adding blockchain-based token rewards for in-game achievements or accomplishments.
+Encourage them to design a reward system that utilizes blockchain tokens to incentivize player engagement.
+Integrating NFTs as Collectible Items:
+
+Guide students in integrating NFTs as collectible in-game items or assets.
+Provide a set of sample NFTs (e.g., digital characters or items) that students can use as collectibles within the game.
+Instruct them to create a mechanism that allows players to obtain, trade, or use these NFTs as part of their in-game experience.
+Creating a Blockchain Wallet:
+
+Teach students how to create blockchain wallets or accounts to interact with the blockchain.
+Ensure they understand how to send, receive, and manage tokens and NFTs within the game.
+Testing and Debugging:
+
+Task students with thorough testing of the game's blockchain integration, including token rewards and NFT functionality.
+Encourage them to identify and resolve any issues or bugs that may arise during testing.
+Documentation and Reporting:
+
+Require students to create a detailed report that includes:
+Descriptions of the token reward system and NFT integration.
+Explanations of how blockchain technology enhances the game experience.
+Documentation of the testing process and bug fixes.
+Reflection on the challenges and benefits of integrating blockchain.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The effectiveness of the token reward system and its impact on player engagement.
+The successful integration of NFTs as in-game collectibles.
+The quality of documentation and reporting.
+Demonstrated understanding of blockchain technology and its application in gaming.

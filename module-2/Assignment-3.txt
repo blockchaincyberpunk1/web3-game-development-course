@@ -1,0 +1,49 @@
+Interacting with Ethereum
+
+Objective: The objective of this assignment is to give students hands-on experience in building a simple web application that interacts with the Ethereum blockchain using web3.js or ethers.js. By the end of this assignment, students should be able to create a functional application that can perform basic Ethereum-related tasks such as checking wallet balances, sending Ether, or reading data from a smart contract.
+
+Instructions:
+
+Introduction to Ethereum Interaction:
+
+Explain the significance of creating web applications that can interact with the Ethereum blockchain in the context of game development and decentralized applications.
+Provide a brief overview of the web3.js and ethers.js libraries and their roles in Ethereum interaction.
+Choose a Task:
+
+Instruct students to choose one of the following Ethereum-related tasks for their web application:
+Checking the balance of an Ethereum wallet.
+Sending Ether from one address to another.
+Reading data from a specific function of a deployed smart contract.
+Any other basic Ethereum-related task of their choice.
+Web Application Development:
+
+Task students with developing a basic web application using HTML, CSS, and JavaScript.
+Guide them through setting up the necessary environment and integrating either web3.js or ethers.js to enable Ethereum interaction.
+Encourage them to use a user-friendly interface that makes the selected task intuitive for users.
+Task Implementation:
+
+Instruct students to implement the chosen Ethereum-related task in their web application.
+Ensure that they handle errors gracefully and provide appropriate user feedback.
+User Guide:
+
+Require students to create a brief user guide or README document that explains how to use their web application.
+The guide should include instructions for performing the chosen Ethereum-related task and any other relevant information for users.
+Code Documentation:
+
+Ask students to document their code to make it understandable and maintainable.
+Encourage them to include comments and explanations of key functions and sections.
+Testing:
+
+Instruct students to thoroughly test their web application to ensure that it functions correctly.
+Encourage them to use a local Ethereum development environment (e.g., Ganache) for testing.
+Submission:
+
+Require students to submit their web application code, the user guide, and any other necessary files or documentation.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful implementation of the chosen Ethereum-related task.
+User-friendliness and functionality of the web application.
+Clarity and completeness of the user guide.
+Quality of code documentation.
+Thoroughness of testing and error handling.

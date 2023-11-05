@@ -1,0 +1,43 @@
+In-Game Currency and Purchases
+
+Objective: The objective of this assignment is to teach students how to design and implement an in-game currency system, as well as create a virtual store where players can spend the currency on virtual items or upgrades. This assignment provides students with hands-on experience in game economy design.
+
+Instructions:
+
+Introduction to In-Game Currency:
+
+Provide an introduction to the concept of in-game currency and its significance in game development.
+Explain the role of in-game currency in enhancing player engagement and progression.
+Providing the Game Framework:
+
+Supply students with a suitable game framework or engine for web-based games.
+Ensure that the framework supports game development, including player progression, in-game currency, and virtual item purchases.
+Developing the Game:
+
+Instruct students to develop a web-based game that incorporates the following elements:
+An in-game currency system: Players can earn or purchase the in-game currency through gameplay or transactions.
+A virtual store: Create a virtual store where players can spend their in-game currency to purchase virtual items or upgrades for the game.
+Game mechanics: Design the game mechanics and objectives in a way that encourages players to engage with the in-game currency and virtual store.
+Balancing the Game Economy:
+
+Task students with carefully balancing the in-game economy to ensure fair progression for all players.
+Encourage them to consider factors such as currency acquisition rates, item pricing, and the overall player experience.
+User Testing and Feedback:
+
+Organize a user testing session where students can have their peers or external users play the game.
+Collect feedback on the in-game currency system, virtual store, and overall gameplay experience.
+Documentation and Reporting:
+
+Require students to create a comprehensive report that includes:
+Descriptions of the in-game currency system and virtual store.
+Details on how the currency can be earned or purchased.
+An explanation of the virtual items or upgrades available in the store.
+Insights gathered from user testing and feedback.
+Reflection on the game's economy balance.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+The effectiveness and functionality of the in-game currency system and virtual store.
+The balance and fairness of the game economy.
+Documentation quality and completeness.
+Active participation in the user testing and feedback session.

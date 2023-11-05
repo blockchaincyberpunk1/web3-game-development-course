@@ -1,0 +1,43 @@
+Developing a Blockchain-Based Mini-Game
+
+Objective: The objective of this assignment is to challenge students to create a small blockchain-powered mini-game. By the end of this assignment, students should be able to develop a simple web-based mini-game using HTML, CSS, and JavaScript, while also integrating a smart contract for the game's functionality.
+
+Instructions:
+
+Introduction to Mini-Game Development:
+
+Provide an overview of the importance of mini-games in the gaming industry.
+Explain how blockchain technology can enhance mini-games by ensuring fairness, security, or ownership of in-game assets.
+Mini-Game Concept Selection:
+
+Instruct students to choose a concept for a web-based mini-game (e.g., a blockchain-based lottery, collectible game, or simple betting game).
+Encourage them to think creatively and consider how blockchain features can be integrated into their chosen concept.
+Smart Contract Integration:
+
+Provide students with a basic smart contract template that suits the chosen game concept (e.g., an RNG-based contract for a lottery game or an ERC-721 contract for collectibles).
+Task students with integrating the provided smart contract into their mini-game's backend using a Web3 library (e.g., web3.js or ethers.js).
+Instruct them to implement functionalities such as generating random outcomes, managing collectibles, or handling player interactions with the smart contract.
+User Interface Development:
+
+Guide students in creating a user-friendly interface for the mini-game using HTML, CSS, and JavaScript.
+Ensure that the interface allows players to interact with the game and the smart contract seamlessly.
+Encourage them to design an appealing and intuitive interface.
+Functionality Demonstration:
+
+Require students to demonstrate how the mini-game works, including the blockchain-powered features.
+Instruct them to showcase how players can participate, win, or collect blockchain-based assets within the game.
+Testing and Debugging:
+
+Encourage students to thoroughly test their mini-game, paying special attention to blockchain interactions.
+Task them with debugging and resolving any issues that arise during testing.
+Documentation and User Guide:
+
+Instruct students to provide documentation that explains the game's rules, blockchain integration, and how to play.
+Encourage them to create a user guide that helps players understand the game's mechanics.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful integration of the smart contract into the mini-game.
+Functionality and user-friendliness of the mini-game interface.
+Clarity and completeness of documentation.
+Thoroughness of testing and debugging.

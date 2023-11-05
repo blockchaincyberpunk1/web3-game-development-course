@@ -1,0 +1,42 @@
+Setting up a Local Ethereum Environment
+
+Objective: The objective of this assignment is to familiarize students with the process of setting up a local Ethereum blockchain environment for development purposes. By the end of this assignment, students should be able to install, configure, and interact with a local Ethereum client while deploying a simple smart contract to the local network.
+
+Instructions:
+
+Introduction to Local Ethereum Environment:
+
+Provide an introduction to the concept of a local Ethereum blockchain environment and its importance in game development.
+Explain that a local environment allows developers to test and experiment with smart contracts without interacting with the main Ethereum network.
+Choose Ethereum Client:
+
+Guide students in choosing one of the following Ethereum clients for setting up a local environment:
+Ganache (formerly known as Ganache-CLI).
+Hardhat.
+Installation and Configuration:
+
+Provide step-by-step instructions for installing and configuring the chosen Ethereum client on their local machines.
+Ensure that students set up a local Ethereum network with the client.
+Smart Contract Deployment:
+
+Instruct students to write a simple Ethereum smart contract using Solidity (e.g., a basic ERC-20 token contract or a game-related contract).
+Task them with deploying the smart contract to the local Ethereum network they set up.
+Verify that they can interact with the deployed smart contract using a Web3 library (e.g., web3.js or ethers.js).
+Demonstration and Documentation:
+
+Require students to document the entire process with clear steps and explanations.
+Encourage them to capture screenshots or record a short video demonstrating their local Ethereum environment setup and smart contract deployment.
+Testing and Interaction:
+
+Ensure that students include evidence of successful interaction with the deployed smart contract. This may involve calling contract functions, sending transactions, and verifying contract state changes.
+Submission:
+
+Collect the documentation, screenshots, or videos from students as part of their submission.
+Assessment Criteria:
+
+Assess students based on the following criteria:
+Correct installation and configuration of the chosen Ethereum client.
+Successful deployment of a smart contract to the local Ethereum network.
+Effective interaction with the deployed smart contract using a Web3 library.
+Clarity and completeness of documentation.
+The ability to provide evidence of a functioning local Ethereum environment.

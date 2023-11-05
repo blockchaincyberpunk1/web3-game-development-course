@@ -1,0 +1,42 @@
+Smart Contract Integration in Games
+
+Objective: The objective of this assignment is to guide students in integrating smart contracts into a game's logic. By the end of this assignment, students should be able to integrate a provided smart contract into a game prototype, allowing for the creation and trade of in-game items as blockchain tokens.
+
+Instructions:
+
+Introduction to Smart Contract Integration:
+
+Provide an overview of the benefits of integrating smart contracts into games, such as item ownership, secure trading, and player-driven economies.
+Explain the basic concepts of smart contracts and how they interact with blockchain technology.
+Game Prototype and Smart Contract:
+
+Provide students with a simple game prototype or concept (e.g., a collectible card game) that includes the need for in-game items and trading.
+Also, provide a basic smart contract (e.g., an ERC-721 token contract) for in-game item management. Ensure that students understand the contract's functionality.
+Integration Task:
+
+Task students with integrating the provided smart contract into the game prototype's logic.
+Instruct them to implement the following functionalities:
+Creating new in-game items as blockchain tokens when certain conditions are met.
+Allowing players to own and trade these in-game items using the smart contract.
+Updating the game's interface to reflect item ownership on the blockchain.
+Demonstration:
+
+Require students to demonstrate how the integrated smart contract interacts with the game's backend. This could involve creating and trading items within the game.
+Code Comments or Documentation:
+
+Instruct students to provide code comments or documentation explaining the integration process.
+Encourage them to explain how the game's logic interacts with the smart contract and how blockchain transactions are initiated.
+Testing and Debugging:
+
+Encourage students to thoroughly test the integration for correctness and potential vulnerabilities.
+Task them with debugging and resolving any issues that arise during testing.
+Presentation or Documentation:
+
+Students can choose to present their integrated game and explain the smart contract integration to the class or submit comprehensive documentation.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful integration of the smart contract into the game.
+Demonstration of in-game item creation and trading using blockchain tokens.
+Clarity of code comments or documentation.
+Thoroughness of testing and debugging.

@@ -1,0 +1,53 @@
+NFT Marketplace Development
+
+Objective: The objective of this assignment is to challenge students to create a simple NFT marketplace where users can list, buy, and sell digital assets represented as NFTs (Non-Fungible Tokens). By the end of this assignment, students should be able to develop a functional NFT marketplace smart contract and a user-friendly web interface.
+
+Instructions:
+
+Introduction to NFT Marketplaces:
+
+Provide an introduction to NFT marketplaces, explaining their role in trading digital assets, such as collectibles, game items, and digital art.
+NFT Marketplace Smart Contract Template:
+
+Share a basic NFT marketplace smart contract template with students.
+Ensure students have access to the source code of the smart contract and understand its structure.
+Extending Marketplace Functionality:
+
+Instruct students to extend the marketplace's functionality to support the following actions:
+Listing NFTs for sale.
+Buying NFTs from other users.
+Managing ownership records and transaction history.
+User-Friendly Web Interface:
+
+Task students with developing a user-friendly web interface for the NFT marketplace.
+The interface should allow users to:
+Browse NFT listings.
+List their NFTs for sale.
+Purchase NFTs from other users.
+View their own NFT collection and transaction history.
+Testing and Transactions:
+
+Require students to thoroughly test the marketplace.
+They should perform actions such as listing NFTs, making transactions, and verifying ownership records.
+Security Considerations:
+
+Emphasize the importance of security in NFT marketplaces.
+Instruct students to implement security measures to prevent unauthorized access and ensure the integrity of transactions.
+Documentation:
+
+Ask students to create documentation that includes:
+A clear explanation of how the marketplace works.
+User instructions for using the web interface.
+Details on the smart contract's functions and how they interact.
+Presentation and Testing:
+
+Organize a presentation session where students can demonstrate their NFT marketplace and perform test transactions.
+Encourage peer reviews and discussions on the marketplace's usability and functionality.
+Assessment Criteria:
+
+Evaluate students based on the following criteria:
+Successful implementation of marketplace features.
+User-friendly and responsive web interface.
+Secure transactions and ownership management.
+Quality and completeness of documentation.
+Quality of the presentation and participation in peer reviews.

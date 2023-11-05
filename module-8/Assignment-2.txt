@@ -1,0 +1,42 @@
+Open-Source Contributions
+
+Objective: The objective of this assignment is to encourage students to actively participate in open-source Web3 game development projects. By making meaningful contributions to existing projects, students will not only enhance their coding skills but also gain insights into collaborative development practices within the Web3 gaming community.
+
+Instructions:
+
+Introduction to Open-Source Contributions:
+
+Provide an introduction explaining the significance of open-source development and its role in the Web3 game development ecosystem.
+Explain how contributing to open-source projects can expand students' knowledge and skills.
+List of Open-Source Web3 Game Projects:
+
+Provide a list of open-source Web3 game projects or repositories hosted on platforms like GitHub.
+Include a brief description of each project, highlighting its purpose and any specific areas where contributions are welcome.
+Project Selection:
+
+Instruct students to choose one project from the provided list that aligns with their interests or expertise.
+Encourage them to explore the project's documentation and existing issues to identify areas where they can contribute.
+Contribution Tasks:
+
+Task students with making contributions to the selected project. Contributions may include:
+Bug fixes
+Feature enhancements
+Documentation improvements
+Code optimizations
+Testing and quality assurance
+Documentation of Contributions:
+
+Require students to thoroughly document their contributions. This documentation should include:
+Code changes made.
+Details of pull requests submitted, including a link to the pull request.
+Interactions with project maintainers, including feedback received and any changes made based on their suggestions.
+Value Reflection:
+
+Ask students to reflect on the value of open-source collaboration in the context of Web3 game development.
+Encourage them to discuss how contributing to an open-source project has enhanced their learning, problem-solving skills, and understanding of collaborative coding practices.
+Assessment Criteria:
+
+Assess students based on the following criteria:
+The impact and quality of their contributions to the chosen open-source project.
+The effectiveness of their documentation, including code changes and interactions with project maintainers.
+The depth of their reflection on the learning and growth achieved through open-source collaboration.
